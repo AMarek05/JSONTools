@@ -3,3 +3,4 @@ Aplikacja dla programistów, którzy potrzebują przeformatować lub filtrować 
 
 ## Product Backlog
 [Link do PB](https://docs.google.com/spreadsheets/d/1xxHPOIvYGGzZqCjX7_edRFbnHTvdKGop/edit?usp=sharing&ouid=108908750541881023164&rtpof=true&sd=true)
+[Link do DoD](https://docs.google.com/spreadsheets/u/0/d/e/2PACX-1vTn6j3M8pmGEzrsQk8mXse7lVHUdhYWkfxbkQiYI23rBtwM4N3bWw0qtupW-gesfCkcYasnZ-eEXl-F/pubhtml?pli=1)
